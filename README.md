@@ -12,4 +12,4 @@ The purpose of this program is to create an ordered playlist of songs extracted 
 
 >SongHistoryList.output()* - returns the entire recorded history (String)
 
-**In order to get the history of a playlist, the syntax is (name of playlist).getHistory.(name of SongHistoryList method)**
+*In order to get the history of a playlist, the syntax is (name of playlist).getHistory.(name of SongHistoryList method)
