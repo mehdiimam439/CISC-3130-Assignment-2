@@ -3,6 +3,7 @@ The purpose of this program is to create an ordered playlist of songs extracted 
 
 # Important methods for Main
 >Main.parseFile(String fileName) - Read in a Spotify top charts CSV file and convert it into a 2D array. Input does not need directory information as long as it is in src/main/resources.
+
 >Playlist.addSong(String name) - Adds a song to the singly linked playlist
 >Playlist.listenToSong() - Returns the current song (String) in the playlist and adds it to the history, then moves on to the next song
 >SongHistoryList.lastListened()* - returns the last song (String) listened to in the playlist
